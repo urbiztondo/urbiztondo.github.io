@@ -1,9 +1,219 @@
 {
-  "name": "Miguel Urbiztondo",
+  "name": "Miguel urbiztondo",
   "affiliation": "Centro Universitario de la Defensa (CUD)",
   "h_index": 20,
   "citedby": 1333,
   "publications": [
+    {
+      "title": "On-chip monitoring of toxic gases: capture and label-free SERS detection with plasmonic mesoporous sorbents",
+      "year": 2023,
+      "url": "https://pubs.rsc.org/en/content/articlehtml/2023/lc/d3lc00136a"
+    },
+    {
+      "title": "Deep Learning-Based Energy Mapping of Chlorine Effects in an Epoxidation Reaction Catalyzed by a Silver–Copper Oxide Nanocatalyst",
+      "year": 2023,
+      "url": "https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.3c04308"
+    },
+    {
+      "title": "Devices and applications at the micro-and nanoscale rsc. li/loc",
+      "year": 2023,
+      "url": "https://pubs.rsc.org/en/content/articlepdf/2023/lc/d3lc90064a"
+    },
+    {
+      "title": "Innovative catalyst integration on transparent silicone microreactors for photocatalytic applications",
+      "year": 2022,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0920586120303515"
+    },
+    {
+      "title": "Unravelling the key factors in the chlorine-promoted epoxidation of ethylene over a silver–copper oxide nanocatalyst",
+      "year": 2022,
+      "url": "https://pubs.rsc.org/en/content/articlehtml/2022/nr/d2nr00702a"
+    },
+    {
+      "title": "Unravelling the key factors in the chlorine-promoted epoxidation of ethylene over a silver-copper oxide nanocatalyst",
+      "year": 2022,
+      "url": "https://digital.csic.es/handle/10261/280852"
+    },
+    {
+      "title": "Plasmonic MOF thin films with Raman internal standard for fast and ultrasensitive SERS detection of chemical warfare agents in ambient air",
+      "year": 2021,
+      "url": "https://pubs.acs.org/doi/abs/10.1021/acssensors.1c00178"
+    },
+    {
+      "title": "Influence of boehmite intermediate layer as covalent linker on synthesis of LTA zeolite coatings",
+      "year": 2021,
+      "url": "http://www.scielo.org.co/scielo.php?pid=S0120-62302021000400064&script=sci_arttext&tlng=en"
+    },
+    {
+      "title": "In situ synthesis of SERS-active Au@ POM nanostructures in a microfluidic device for real-time detection of water pollutants",
+      "year": 2020,
+      "url": "https://pubs.acs.org/doi/abs/10.1021/acsami.0c06725"
+    },
+    {
+      "title": "Gas phase detection of chemical warfare agents CWAs with portable Raman",
+      "year": 2020,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0304389419312336"
+    },
+    {
+      "title": "Functionalization of 3D printed ABS filters with MOF for toxic gas removal",
+      "year": 2020,
+      "url": "https://www.sciencedirect.com/science/article/pii/S1226086X2030229X"
+    },
+    {
+      "title": "Cu-BTC functional microdevices as smart tools for capture and preconcentration of nerve agents",
+      "year": 2020,
+      "url": "https://pubs.acs.org/doi/abs/10.1021/acsami.0c07364"
+    },
+    {
+      "title": "Estudio de necesidad de Sistemas de Defensa NBQ en vehículos aerolanzables de exploración de caballería",
+      "year": 2020,
+      "url": "https://zaguan.unizar.es/record/98702"
+    },
+    {
+      "title": "Influence of boehmite intermediate layer as covalent linker on synthesis of LTA zeolite coatings.",
+      "year": 2020,
+      "url": "https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=01206230&AN=146087297&h=jD2rKUYYlRj1I%2Bp5e6Epfcqj8A%2BSxefiDXI6EWD7W9ftJogKQFAka3ud3sH4DoaDGdXsx6uLf6wlKgna4dDWTQ%3D%3D&crl=c"
+    },
+    {
+      "title": "Congreso: Microfabrication of a Silicon 3D preconcentrator forwater detection in a gas stream",
+      "year": 2020,
+      "url": "http://repositorio.uts.edu.co:8080/xmlui/handle/123456789/2285"
+    },
+    {
+      "title": "Development of μ-sensors and μ-preconcentrators for explosives and chemical threats detection",
+      "year": 2020,
+      "url": "https://zaguan.unizar.es/record/108265"
+    },
+    {
+      "title": "SERS detection of neurotoxic agents in gas phase using microfluidic chips containing gold-mesoporous silica as plasmonic-sorbent",
+      "year": 2019,
+      "url": "https://ieeexplore.ieee.org/abstract/document/8808289/"
+    },
+    {
+      "title": "µ-Preconcentrators Using Protic Imidazolium Polyionic Liquids for Chemical Warfare Agents Sampling at Trace Level",
+      "year": 2019,
+      "url": "https://ieeexplore.ieee.org/abstract/document/8808734/"
+    },
+    {
+      "title": "La defensa NBQR en las unidades mecanizadas",
+      "year": 2019,
+      "url": "https://zaguan.unizar.es/record/96756"
+    },
+    {
+      "title": "Highly sensitive SERS quantification of organophosphorous chemical warfare agents: A major step towards the real time sensing in the gas phase",
+      "year": 2018,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0925400518307548"
+    },
+    {
+      "title": "AP4. 3-Silver nanoplates on graphite substrates for ultrasensitive and label free Surface-Enhanced Raman Scattering (SERS) based detection of organophosphorous nerve agents in gas phase",
+      "year": 2018,
+      "url": "https://www.ama-science.org/proceedings/details/3058"
+    },
+    {
+      "title": "SERS para la detección de agentes de guerra química",
+      "year": 2018,
+      "url": "https://zaguan.unizar.es/record/109646/files/texto_completo.pdf"
+    },
+    {
+      "title": "Zeolite based microconcentrators for volatile organic compounds sensing at trace-level: fabrication and performance",
+      "year": 2016,
+      "url": "https://iopscience.iop.org/article/10.1088/0960-1317/26/8/084010/meta"
+    },
+    {
+      "title": "Nanotecnología en Defensa: narices electrónicas para detección de explosivos",
+      "year": 2016,
+      "url": "https://zaguan.unizar.es/record/109605"
+    },
+    {
+      "title": "Películas compuestas polímero-MOF con cafeína encapsulada para la fabricación de textiles aditivados",
+      "year": 2016,
+      "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=9204372"
+    },
+    {
+      "title": "Explosives Detection by Array of Si  -Cantilevers Coated With Titanosilicate-Type Nanoporous Materials",
+      "year": 2015,
+      "url": "https://ieeexplore.ieee.org/abstract/document/7145383/"
+    },
+    {
+      "title": "Pt based catalytic coatings on poly (benzimidazole) micromonoliths for indoor quality control",
+      "year": 2015,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0920586114005471"
+    },
+    {
+      "title": "Portable low-power electronic interface for explosive detection using microcantilevers",
+      "year": 2014,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0925400514004390"
+    },
+    {
+      "title": "Reinforced SIL-1 micromembranes integrated on chip: Application to CO2 separation",
+      "year": 2014,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0376738814001124"
+    },
+    {
+      "title": "Portable lock-in amplifier for microcantilever based sensor array. Application to explosives detection using Co-BEA type zeolites as sensing materials",
+      "year": 2014,
+      "url": "https://ieeexplore.ieee.org/abstract/document/6985279/"
+    },
+    {
+      "title": "3D structuration of MOF layers for gas sensors enhancement and its application in microreactors",
+      "year": 2014,
+      "url": "https://zaguan.unizar.es/record/15274"
+    },
+    {
+      "title": "Screen-Printed PZT Cantilevers with de-aluminated type Y zeolites for BTX Detection",
+      "year": 2014,
+      "url": "https://hal.science/hal-00932747/"
+    },
+    {
+      "title": "Explosives detection by using 8-microcantilever chips with self-heating elements modified with exchanged BEA type zeolites",
+      "year": 2013,
+      "url": "https://ieeexplore.ieee.org/abstract/document/6626752/"
+    },
+    {
+      "title": "Micropatterned substrate modified with hydrophic coating for dewatering applications",
+      "year": 2013,
+      "url": "https://core.ac.uk/download/pdf/289973293.pdf"
+    },
+    {
+      "title": "Cantilevers PZT serigrafíados con Zeolitas tipo DAY para detección de BTX",
+      "year": 2013,
+      "url": "https://hal.science/hal-01002044/"
+    },
+    {
+      "title": "Screen-printed PZT cantilevers coated with inorganic nanopowders for benzene detection at room temperature",
+      "year": 2013,
+      "url": "https://hal.science/hal-00838984/"
+    },
+    {
+      "title": "Detection of organic vapours with Si cantilevers coated with inorganic (zeolites) or organic (polymer) layers",
+      "year": 2012,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0925400512005485"
+    },
+    {
+      "title": "Nanostructured electrolyte membranes based on zeotypes, protic ionic liquids and porous PBI membranes: Preparation, characterization and MEA testing",
+      "year": 2012,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0360319911025729"
+    },
+    {
+      "title": "Nanoporous silicalite-only cantilevers as micromechanical sensors: Fabrication, resonance response and VOCs sensing performance",
+      "year": 2012,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0925400512000640"
+    },
+    {
+      "title": "Fast microwave synthesis of Pt-MFI zeolite coatings on silicon micromonoliths: application to VOC catalytic combustion",
+      "year": 2012,
+      "url": "https://www.degruyterbrill.com/document/doi/10.1515/gps-2012-0006/html"
+    },
+    {
+      "title": "Detection of organic vapours with Si cantilevers coated with inorganic (zeolites) or organic (polymer) layers",
+      "year": 2012,
+      "url": "https://digital.csic.es/handle/10261/366828"
+    },
+    {
+      "title": "VOC detection with screen-printed piezoelectric cantilevers coated with PEUT and nanoporous sensitive layers. Comparison with silicon cantilevers",
+      "year": 2012,
+      "url": "https://hal.science/hal-00743797/"
+    },
     {
       "title": "Zeolite films and membranes. Emerging applications",
       "year": 2011,
@@ -12,37 +222,7 @@
     {
       "title": "Ordered porous solids: recent advances and prospects",
       "year": 2011,
-      "url": "https://books.google.com/books?hl=en&lr=&id=LCV-doMNN2wC&oi=fnd&pg=PP1&dq=info:qKCTPwkPtRUJ:scholar.google.com&ots=6yun7_cBO7&sig=lVwiNlfCXA6Qq-w3TolrACqPaD8"
-    },
-    {
-      "title": "Plasmonic MOF thin films with Raman internal standard for fast and ultrasensitive SERS detection of chemical warfare agents in ambient air",
-      "year": 2021,
-      "url": "https://pubs.acs.org/doi/abs/10.1021/acssensors.1c00178"
-    },
-    {
-      "title": "Zeolite-modified cantilevers for the sensing of nitrotoluene vapors",
-      "year": 2009,
-      "url": "https://www.sciencedirect.com/science/article/pii/S0925400509000549"
-    },
-    {
-      "title": "Highly sensitive SERS quantification of organophosphorous chemical warfare agents: A major step towards the real time sensing in the gas phase",
-      "year": 2018,
-      "url": "https://www.sciencedirect.com/science/article/pii/S0925400518307548"
-    },
-    {
-      "title": "In situ synthesis of SERS-active Au@ POM nanostructures in a microfluidic device for real-time detection of water pollutants",
-      "year": 2020,
-      "url": "https://pubs.acs.org/doi/abs/10.1021/acsami.0c06725"
-    },
-    {
-      "title": "Detection of organic vapours with Si cantilevers coated with inorganic (zeolites) or organic (polymer) layers",
-      "year": 2012,
-      "url": "https://www.sciencedirect.com/science/article/pii/S0925400512005485"
-    },
-    {
-      "title": "Gas phase detection of chemical warfare agents CWAs with portable Raman",
-      "year": 2020,
-      "url": "https://www.sciencedirect.com/science/article/pii/S0304389419312336"
+      "url": "https://books.google.com/books?hl=en&lr=&id=LCV-doMNN2wC&oi=fnd&pg=PP1&dq=info:qKCTPwkPtRUJ:scholar.google.com&ots=6yun7_eDJ8&sig=AVpLQr4PQqvg7xihEH8VSq4VFuo"
     },
     {
       "title": "Novel hybrid membranes based on polybenzimidazole and ETS-10 titanosilicate type material for high temperature proton exchange membrane fuel cells: A comprehensive study on dense and porous systems",
@@ -50,9 +230,179 @@
       "url": "https://www.sciencedirect.com/science/article/pii/S0378775311005258"
     },
     {
-      "title": "Nanostructured electrolyte membranes based on zeotypes, protic ionic liquids and porous PBI membranes: Preparation, characterization and MEA testing",
-      "year": 2012,
-      "url": "https://www.sciencedirect.com/science/article/pii/S0360319911025729"
+      "title": "Zeolite-coated interdigital capacitors for humidity sensing",
+      "year": 2011,
+      "url": "https://www.sciencedirect.com/science/article/pii/S092540051100390X"
+    },
+    {
+      "title": "Ammonium based ionic liquids immobilized in large pore zeolites: Encapsulation procedures and proton conduction performance",
+      "year": 2011,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0378775310022251"
+    },
+    {
+      "title": "Explosives detection using nanoporous coatings",
+      "year": 2011,
+      "url": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/8031/803124/Explosives-detection-using-nanoporous-coatings/10.1117/12.883780.short"
+    },
+    {
+      "title": "J. Santamaria",
+      "year": 2011,
+      "url": "https://scholar.google.com/scholar?cluster=1753215766871797215&hl=en&oi=scholarr"
+    },
+    {
+      "title": "Explosives detection using nanoporous coatings, micro-and nanotechnology sensors, systems, and applications III",
+      "year": 2011,
+      "url": "https://scholar.google.com/scholar?cluster=10537127577206651680&hl=en&oi=scholarr"
+    },
+    {
+      "title": "Optical vibrometer for mechanical properties characterization of silicalite-only cantilever based sensors",
+      "year": 2010,
+      "url": "https://www.sciencedirect.com/science/article/pii/S016793170900851X"
+    },
+    {
+      "title": "Zeolite-modified cantilevers for the sensing of nitrotoluene vapors",
+      "year": 2009,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0925400509000549"
+    },
+    {
+      "title": "Gas sensing with silicon-based nanoporous solids",
+      "year": 2009,
+      "url": "https://www.sciencedirect.com/science/article/pii/B9780444531896000159"
+    },
+    {
+      "title": "Sensing of an explosive precursor with zeolite-modified cantilevers",
+      "year": 2009,
+      "url": "https://www.researchgate.net/profile/Isabelle-Dufour-6/publication/242758343_Sensing_of_an_explosive_precursor_with_zeolite-modified_cantilevers/links/0deec51d30ffee4b2e000000/Sensing-of-an-explosive-precursor-with-zeolite-modified-cantilevers.pdf"
+    },
+    {
+      "title": "Zeolites and zeotype materials as efficient barriers for methanol cross-over in DMFCs",
+      "year": 2008,
+      "url": "https://www.sciencedirect.com/science/article/pii/S1387181108000875"
+    },
+    {
+      "title": "Development of etching processes for the micropatterning of silicalite films",
+      "year": 2008,
+      "url": "https://www.sciencedirect.com/science/article/pii/S1387181107007445"
+    },
+    {
+      "title": "Silicalite as structural layers for MEMS applications to Chemical Sensors",
+      "year": 2008,
+      "url": "https://www.researchgate.net/profile/Jose-Quero-2/publication/224212314_A_New_Design_of_High_Precision_Solar_Microsensor_for_Satellite_Aplications/links/5444be940cf2a6a049ab1d88/A-New-Design-of-High-Precision-Solar-Microsensor-for-Satellite-Aplications.pdf#page=44"
+    },
+    {
+      "title": "A Comparison of Zeolites and Polymers used as sensitive layers in microcantilever-based gas sensors",
+      "year": 2008,
+      "url": "https://www.researchgate.net/profile/Isabelle-Dufour-6/publication/233389243_A_Comparison_of_Zeolites_and_Polymers_used_as_sensitive_layers_in_microcantilever-based_gas_sensors/links/0912f50a27593a1e92000000/A-Comparison-of-Zeolites-and-Polymers-used-as-sensitive-layers-in-microcantilever-based-gas-sensors.pdf"
+    },
+    {
+      "title": "An optochemical humidity sensor based on immobilized nile red in Y zeolite",
+      "year": 2007,
+      "url": "https://pubs.acs.org/doi/abs/10.1021/ie061025v"
+    },
+    {
+      "title": "Development of microstructured zeolite films as highly accessible catalytic coatings for microreactors",
+      "year": 2007,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0021951707002217"
+    },
+    {
+      "title": "Evaluation of optical and dielectrical properties of the zeolites",
+      "year": 2006,
+      "url": "https://www.sciencedirect.com/science/article/pii/S0011916406008332"
+    },
+    {
+      "title": "GRACE: DEVELOPMENT OF Pd–ZEOLITE COMPOSITE MEMBRANES FOR HYDROGEN PRODUCTION BY MEMBRANE REACTOR",
+      "year": 2005,
+      "url": "https://books.google.com/books?hl=en&lr=&id=jdF7DAAAQBAJ&oi=fnd&pg=PA341&dq=info:zm5LJpaEO40J:scholar.google.com&ots=WSZMvpqNgx&sig=E7ppYL0lDFbaviNGuL0uxh0Rm74"
+    },
+    {
+      "title": "La inteligencia artificial en los VANTs en aplicaciones de artillería antiaérea",
+      "year": null,
+      "url": "https://zaguan.unizar.es/record/155393"
+    },
+    {
+      "title": "Towards Effective Materials for Nerve Gas Sensing: A Theoretical Evaluation Guide",
+      "year": null,
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5257439"
+    },
+    {
+      "title": "Development of microstructured zeolite films as highly accessible catalytic coatings for microreactors",
+      "year": null,
+      "url": "https://scholar.google.com/scholar?cluster=13624835000117261558&hl=en&oi=scholarr"
+    },
+    {
+      "title": "Influence of boehmite intermediate layer as covalent linker on synthesis of LTA zeolite coatings Influencia de la bohemite como enlazador covalente en la síntesis de recubrimientos de Zeolita LTA",
+      "year": null,
+      "url": "https://scholar.google.com/scholar?cluster=11366453990258771312&hl=en&oi=scholarr"
+    },
+    {
+      "title": "Diseño y organización de una Unidad de zapadores paracaidistas para la reparación de urgencia de aeródromos.",
+      "year": null,
+      "url": "https://zaguan.unizar.es/record/30736"
+    },
+    {
+      "title": "Remodelación del campo de maniobras “las Batiellas”. Estudio de posibilidades y necesidades de cara a despliegue en zona de operaciones.",
+      "year": null,
+      "url": "https://zaguan.unizar.es/record/94967"
+    },
+    {
+      "title": "Novel strategies based on Surface-enhanced Raman Spectroscopy (SERS) for gas phase detection of neurotoxic agents at sub-ppm level",
+      "year": null,
+      "url": "https://congressos.urv.cat/public/docs/abstract-ibernam-marta-lafuente.pdf"
+    },
+    {
+      "title": "Detección de agentes de guerra química en fase gas mediante tecnología Raman-SERS",
+      "year": null,
+      "url": "https://scholar.google.com/scholar?cluster=14902799586756388313&hl=en&oi=scholarr"
+    },
+    {
+      "title": "et al 1INA, Spain, 2CIDETEC-IK4, Spain",
+      "year": null,
+      "url": "https://www.academia.edu/download/83236552/FUCE2010_Development_of_new.pdf"
+    },
+    {
+      "title": "1University of Zaragoza, Spain, 2Centro Universitario de la Defensa, Spain, 3CIBER-BBN, Spain",
+      "year": null,
+      "url": "https://scholar.google.com/scholar?cluster=17552707334561490522&hl=en&oi=scholarr"
+    },
+    {
+      "title": "ZEOLITES AND RELATED: MODIFICATIONS AND THIN FILM DEPOSITION",
+      "year": null,
+      "url": "https://nanospainconf.org/2004/Abstracts/Nanomaterials/Posters/reyesmalladas-Jesus%20Santamar%EDa.pdf"
+    },
+    {
+      "title": "Micro-Fabrication process of free standing silicalite micromembranes",
+      "year": null,
+      "url": "https://scholar.google.com/scholar?cluster=11892849862833725401&hl=en&oi=scholarr"
+    },
+    {
+      "title": "MECHANICAL PROPERTIES STUDY OF SILICALITE MICROCANTILEVERS",
+      "year": null,
+      "url": "http://nanospainconf.archivephantomsnet.net/2009/Posters/NanoSpain2009_Pellejero.pdf"
+    },
+    {
+      "title": "EXCHANGED ZEOLITES FOR OPTICAL SENSOR APPLICATIONS: A PRELIMINAR STUDY.",
+      "year": null,
+      "url": "https://www.nanospainconf.org/2005/Files/Posters/Nanomaterials/Pina_MPilar.pdf"
+    },
+    {
+      "title": "A Comparison of Zeolites and Polymers used as sensitive layers in microcantilever-based gas sensors",
+      "year": null,
+      "url": "https://www.nanospainconf.org/2008/Posters/Nanospain2008_Pellejero.pdf"
+    },
+    {
+      "title": "Nanostructured zeolite films development",
+      "year": null,
+      "url": "https://www.academia.edu/download/78119470/A_New_Design_of_High_Precision_Solar_Mic20220105-31202-yed63n.pdf#page=58"
+    },
+    {
+      "title": "Zeolite Films as catalytic coatings for microreactors with ultra-high surface/volumen ratio",
+      "year": null,
+      "url": "https://www.researchgate.net/profile/Susana-Luaces/publication/228549037_Zeolite_Films_as_catalytic_coatings_for_microreactors_with_ultra-high_surfacevolumen_ratio/links/0fcfd506ef87375024000000/Zeolite-Films-as-catalytic-coatings-for-microreactors-with-ultra-high-surface-volumen-ratio.pdf"
+    },
+    {
+      "title": "Pt based catalytic coatings on high S/V micromonoliths: Silicon vs. Polybenzimidazol substrates",
+      "year": null,
+      "url": "https://scholar.google.com/scholar?cluster=1532866944608209639&hl=en&oi=scholarr"
     }
   ]
 }
