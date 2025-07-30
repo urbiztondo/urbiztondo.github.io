@@ -5,41 +5,77 @@
   <title>Miguel Urbiztondo – Perfil Académico</title>
   <style>
     body {
-      font-family: Georgia, serif;
-      background-color: #f9f9f9;
-      color: #333;
-      max-width: 800px;
+      font-family: 'Georgia', serif;
+      background-color: #f4f4f4;
+      color: #222;
+      max-width: 900px;
       margin: auto;
       padding: 2em;
     }
-    h1 { font-size: 2.5em; margin-bottom: 0; }
-    p { font-size: 1.2em; }
-    a { color: #004080; text-decoration: none; }
-    a:hover { text-decoration: underline; }
-    .links { margin-top: 1em; }
-    .links a { margin-right: 1em; }
-    #publicaciones { margin-top: 3em; }
+    header {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      margin-bottom: 2em;
+    }
+    img {
+      border-radius: 50%;
+      width: 150px;
+      height: 150px;
+      object-fit: cover;
+      border: 3px solid #ccc;
+    }
+    h1 {
+      margin: 0;
+      font-size: 2.4em;
+    }
+    h2 {
+      margin-top: 2em;
+      border-bottom: 2px solid #aaa;
+      padding-bottom: 5px;
+    }
+    a {
+      color: #004080;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .links a {
+      margin-right: 15px;
+    }
+    #stats {
+      font-size: 1.1em;
+      margin-top: 0.5em;
+    }
+    .pub-card {
+      background-color: #fff;
+      padding: 1em;
+      margin: 0.5em 0;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
   </style>
 </head>
 <body>
-  <h1 id="name">Cargando nombre...</h1>
-  <p id="affiliation">Cargando afiliación...</p>
+  <header>
+    <img src="miguel.png" alt="Foto de Miguel Urbiztondo">
+    <div>
+      <h1 id="name">Miguel Urbiztondo</h1>
+      <p id="affiliation">Centro Universitario de la Defensa (CUD)</p>
+      <div class="links">
+        <a href="https://scholar.google.com/citations?user=9H5lyR4AAAAJ&hl=es" target="_blank">Google Scholar</a>
+        <a href="https://orcid.org/0000-0002-4931-1358" target="_blank">ORCID</a>
+      </div>
+      <div id="stats"></div>
+    </div>
+  </header>
 
-  <div class="links">
-    <a href="https://scholar.google.com/citations?user=9H5lyR4AAAAJ&hl=es" target="_blank">Google Scholar</a>
-    <a href="https://orcid.org/0000-0002-4931-1358" target="_blank">ORCID</a>
-  </div>
-
-  <div id="stats" style="margin-top:1em;"></div>
-
-  <div id="publicaciones">
-    <h2>Publicaciones recientes</h2>
-    <ul id="publication-list">
-      <li>Cargando publicaciones...</li>
-    </ul>
+  <h2>Publicaciones recientes</h2>
+  <div id="publication-list">
+    <p>Cargando publicaciones...</p>
   </div>
 
   <script src="main.js"></script>
 </body>
 </html>
-
